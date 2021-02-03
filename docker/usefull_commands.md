@@ -1,4 +1,6 @@
 # Container
+This document outlines useful commands and working with containers as well as debugging issues related to operating system.
+
 Containers are just normal Linux Processes with additional configuration applied.
 
 ## Processes
